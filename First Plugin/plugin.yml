@@ -1,0 +1,9 @@
+main: com.itsmatthewp.plugin.Main
+name: CustomArmorStands
+description: The Finest Armor Stands Plugin Around
+version: 1.1
+author: ItsMatthewP
+commands:
+  scas:
+    aliases: []
+    description: Use /scas help for more information!
